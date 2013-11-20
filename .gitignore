@@ -1,0 +1,37 @@
+Shooting Star/Temp/
+Shooting Star/Library/
+Shooting Star/obj/
+*.svd
+ 
+!Shooting Star/Library/*.asset
+!Shooting Star/Library/AssetImportState
+!Shooting Star/Library/AssetVersioning.db
+!Shooting Star/Library/BuildPlayer.prefs
+!Shooting Star/Library/ScriptMapper
+!Shooting Star/Library/assetservercachev3
+!Shooting Star/Library/expandedItems
+!Shooting Star/Library/guidmapper
+!Shooting Star/Library/unity default resources
+!Shooting Star/Library/unity editor resources
+ 
+ 
+ 
+*Project.userprefs
+*Assembly-CSharp.csproj
+*Assembly-CSharp.pidb
+*Assembly-CSharp-Editor.csproj
+*Assembly-CSharp-Editor.pidb
+*Assembly-CSharp-Editor-vs.csproj
+*Assembly-CSharp-firstpass.csproj
+*Assembly-CSharp-firstpass.pidb
+*Assembly-CSharp-firstpass-vs.csproj
+*Assembly-CSharp-vs.csproj
+*Assembly-UnityScript-firstpass.pidb
+*Assembly-UnityScript-firstpass.unityproj
+*Assembly-UnityScript-firstpass-vs.unityproj
+*.sln
+*.csproj
+*.suo
+*.unityproj
+*.pidb
+*.userprefs
