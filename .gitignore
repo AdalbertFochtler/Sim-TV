@@ -35,3 +35,7 @@ Shooting Star/obj/
 *.unityproj
 *.pidb
 *.userprefs
+/Shooting Star/Assets/Levels/Assets/Prefabs.meta
+/Shooting Star/Assets/Scenes/FinalScene.unity
+/Shooting Star/Assets/Scenes/ScenePrefabs.meta
+/Shooting Star/Assets/Sound.meta
